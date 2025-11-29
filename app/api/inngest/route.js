@@ -12,3 +12,5 @@ export const { GET, POST, PUT } = serve({
     
   ],
 });
+
+export const dynamic = 'force-dynamic';
